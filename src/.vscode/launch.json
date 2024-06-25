@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GameFrame",
+            "request": "launch",
+            "mainClass": "GameFrame",
+            "projectName": "src_914afa28"
+        },
+        {
+            "type": "java",
+            "name": "GamePanel",
+            "request": "launch",
+            "mainClass": "GamePanel",
+            "projectName": "src_914afa28"
+        },
+        {
+            "type": "java",
+            "name": "SnakeGame",
+            "request": "launch",
+            "mainClass": "SnakeGame",
+            "projectName": "src_914afa28"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
